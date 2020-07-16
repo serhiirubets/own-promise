@@ -4,6 +4,8 @@
   "description": "",
   "main": "promise.js",
   "scripts": {
+    "start": "node promise/promise.js",
+    "start:ts": "npx ts-node promise/promise.js",
     "test": "jest"
   },
   "keywords": [],
